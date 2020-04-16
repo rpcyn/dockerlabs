@@ -23,7 +23,7 @@ DockerLabs brings you tutorials that help you get hands-on experience using Dock
 DockerLabs is a tutorials authored by members of the open community.
 Below are the list of categories:
 
-## Docker
+## Docker with Rajendra
 
 - [Docker for Beginners](./beginners/README.md)
 
